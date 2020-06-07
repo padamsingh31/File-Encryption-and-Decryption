@@ -1,0 +1,20 @@
+Hey hii 
+I am Padam Singh.
+I just tried to create a simple Encryption and Decryption Script
+Working Method:
+ [*] This is Simple File Encryption and Decryption 
+ [*] Please Choose what you want 
+     1) Encrypt
+     2) Decrypt
+ [*] select one of above
+ [*] choose file
+ [*] Type Password
+ [*] Retype Password
+ 
+
+Steps:
+1) Clone repository
+2) from root account 
+	cd Desktop/EncryptDecrypt/
+	chmod +x EncDec.sh
+	./EncDec.sh
